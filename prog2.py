@@ -44,27 +44,3 @@ def first_and_last(arr, target):
     start = find_start(arr, target)
     end = find_end(arr, target)
     return [start, end]
-  
-  
-
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
