@@ -1,4 +1,4 @@
-
+# valid anagram
 from collections import Counter
 
 def are_anagrams(s1, s2):
